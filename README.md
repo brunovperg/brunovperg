@@ -31,7 +31,7 @@ At **Hospital de Cirurgia**, I contribute to the development, integration, and m
 | Domain | Technologies |
 | :--- | :--- |
 | **Languages** | TypeScript, JavaScript (ES6+), Python, SQL |
-| **Frontend** | React 18, Vite, Tailwind CSS, Sass, HTML5, CSS3, Angular |
+| **Frontend** | React, Vite, Tailwind CSS, Sass, HTML5, CSS3, Angular |
 | **Backend & APIs** | Node.js, Express, RESTful APIs, SQLAlchemy |
 | **Databases** | PostgreSQL, MySQL, SQL Server |
 | **Tools & Practices** | Git, GitHub, Linux, Clean Architecture, CI/CD, Agile |
