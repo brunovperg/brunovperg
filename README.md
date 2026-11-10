@@ -49,7 +49,7 @@ At **Hospital de Cirurgia**, I contribute to the development, integration, and m
   Real-time automated alerting bridge between GLPI IT ticketing and WhatsApp, slashing MTTA for high-priority support incidents.
 
 - 👶 **[Gestational Age Calculator](https://github.com/brunovperg/idade-gestacional-react2)**  
-  *React, Vite, Sass, Healthcare Algorithms*  
+  *React, Vite, Sass, Healthcare Algorithms* • [🌐 Live Demo](https://calculadora-idade-gestacional.vercel.app)  
   Obstetric calculation tool computing gestational milestones and estimated delivery dates based on clinical standards (LMP / USG).
 
 ---
