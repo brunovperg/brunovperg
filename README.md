@@ -52,10 +52,6 @@ At **Hospital de Cirurgia**, I contribute to the development, integration, and m
   *React, Vite, Sass, Healthcare Algorithms*  
   Obstetric calculation tool computing gestational milestones and estimated delivery dates based on clinical standards (LMP / USG).
 
-- 📊 **[Intuitive Care Pipeline](https://github.com/brunovperg/intuitive-care)**  
-  *Python, SQL, Node.js, Pandas*  
-  Comprehensive data processing pipeline featuring automated web scraping, PDF extraction, and relational database modeling.
-
 ---
 
 <div align="center">
