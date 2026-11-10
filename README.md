@@ -52,6 +52,10 @@ At **Hospital de Cirurgia**, I contribute to the development, integration, and m
   *React, Vite, Sass, Healthcare Algorithms* • [🌐 Live Demo](https://calculadora-idade-gestacional.vercel.app)  
   Obstetric calculation tool computing gestational milestones and estimated delivery dates based on clinical standards (LMP / USG).
 
+- 📊 **[WHO Growth Charts & Z-Score Calculator](https://github.com/brunovperg/WHO-chats)**  
+  *JavaScript, Clinical Pediatrics, WHO Anthro Engine*  
+  Pediatric diagnostic calculator computing infant development Z-scores and percentiles based on World Health Organization standards.
+
 ---
 
 <div align="center">
